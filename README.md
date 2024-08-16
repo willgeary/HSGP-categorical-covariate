@@ -4,6 +4,6 @@ Recreating [this Bambi tutorial](https://bambinos.github.io/bambi/notebooks/hsgp
 
 The result is separate HSGP models for each level of a categorical covariate. Result looks like:
 
-![alt text]([http://url/to/img.png](https://raw.githubusercontent.com/willgeary/HSGP-categorical-covariate/main/img.png))
+![alt text](https://raw.githubusercontent.com/willgeary/HSGP-categorical-covariate/main/img.png)
 
 
